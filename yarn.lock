@@ -3413,6 +3413,11 @@ expo-router@~4.0.9:
     semver "~7.6.3"
     server-only "^0.0.1"
 
+expo-secure-store@~14.0.0:
+  version "14.0.0"
+  resolved "https://registry.yarnpkg.com/expo-secure-store/-/expo-secure-store-14.0.0.tgz#cf6eb7f73e619f8907d5a073e2f438927b5fc2ab"
+  integrity sha512-VyhtRFXP+7hQmHhKlHIOWid1Q/IRpM7Uif32tZHLZHvQ6FNz2cUkr26XWGvCa7btYbrR6OL++FBFZYjbIcRZTw==
+
 expo-splash-screen@~0.29.13:
   version "0.29.13"
   resolved "https://registry.yarnpkg.com/expo-splash-screen/-/expo-splash-screen-0.29.13.tgz#2a9083cdb4f7d3e5e4427b625a5249eaae71de7a"
@@ -4004,6 +4009,11 @@ image-size@^1.0.2:
   integrity sha512-541xKlUw6jr/6gGuk92F+mYM5zaFAc5ahphvkqvNe2bQ6gVBkd6bfrmVJ2t4KDAfikAYZyIqTnktX3i6/aQDrQ==
   dependencies:
     queue "6.0.2"
+
+immer@^10.1.1:
+  version "10.1.1"
+  resolved "https://registry.yarnpkg.com/immer/-/immer-10.1.1.tgz#206f344ea372d8ea176891545ee53ccc062db7bc"
+  integrity sha512-s2MPrmjovJcoMaHtx6K11Ra7oD05NT97w1IC5zpMkT6Atjr7H8LjaDd81iIxUYpMKSRRNMJE703M1Fhr/TctHw==
 
 import-fresh@^2.0.0:
   version "2.0.0"
@@ -6060,6 +6070,11 @@ react-native-screens@~4.1.0:
     react-freeze "^1.0.0"
     warn-once "^0.1.0"
 
+react-native-simple-default-props@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/react-native-simple-default-props/-/react-native-simple-default-props-1.0.0.tgz#9e510754f840820f227736aaac7edd6a4476fc12"
+  integrity sha512-cvhs3S2Yu5JdGtOdFz4aLstuQZM7Gps4/ZYBSwQd3IYVyvLhiWnXVMsRkod7AdB/SR9gHa0W2jXTao2HPwnNbg==
+
 react-native-web@~0.19.13:
   version "0.19.13"
   resolved "https://registry.yarnpkg.com/react-native-web/-/react-native-web-0.19.13.tgz#2d84849bf0251ec0e3a8072fda7f9a7c29375331"
@@ -7527,3 +7542,8 @@ zod@^3.23.8:
   version "3.23.8"
   resolved "https://registry.yarnpkg.com/zod/-/zod-3.23.8.tgz#e37b957b5d52079769fb8097099b592f0ef4067d"
   integrity sha512-XBx9AXhXktjUqnepgTiE5flcKIYWi/rme0Eaj+5Y0lftuGBq+jyRu/md4WnuxqgP1ubdpNCsYEYPxrzVHD8d6g==
+
+zustand@^5.0.1:
+  version "5.0.1"
+  resolved "https://registry.yarnpkg.com/zustand/-/zustand-5.0.1.tgz#2bdca5e4be172539558ce3974fe783174a48fdcf"
+  integrity sha512-pRET7Lao2z+n5R/HduXMio35TncTlSW68WsYBq2Lg1ASspsNGjpwLAsij3RpouyV6+kHMwwwzP0bZPD70/Jx/w==
